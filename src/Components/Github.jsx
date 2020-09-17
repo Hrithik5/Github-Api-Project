@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import './styles.css'
-import { Col, Row, Figure, Jumbotron, Container, Navbar, Form, Button, Card, ListGroup, Spinner } from 'react-bootstrap'
+import { Col, Row, Figure, Jumbotron, Container, Navbar, Form, Button, Card, ListGroup} from 'react-bootstrap'
 
 
 function Github() {
@@ -129,9 +129,6 @@ function Github() {
                                 </Card>
                             </div>
                         )}
-                    {/* <Spinner animation="border" role="status">
-                        <span className="sr-only">Loading...</span>
-                    </Spinner> */}
                 </Container>
             </Jumbotron>
 
