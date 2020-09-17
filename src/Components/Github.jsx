@@ -5,7 +5,6 @@ import { Col, Row, Figure, Jumbotron, Container, Navbar, Form, Button, Card, Lis
 
 function Github() {
 
-
     const [username, setUsername] = useState('');
     const [followers, setFollowers] = useState('');
     const [following, setFollowing] = useState('');
@@ -13,7 +12,6 @@ function Github() {
     const [link, setLink] = useState('');
     const [userInput, setUserInput] = useState('');
     const [error, setError] = useState(null);
-
     const [repos, setRepos] = useState([]);
 
 
