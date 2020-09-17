@@ -1,0 +1,32 @@
+.search{
+    display: flex;
+    justify-content: center;
+    margin-left: 25rem;
+    width:20%;
+    border: solid 1px black;
+}
+#button{
+    margin-left: 1.5rem;
+}
+
+.header{
+    text-decoration: bold;
+    font-size: 3rem;
+}
+.header1{
+    margin-top:2rem;
+    margin-right: 12rem;
+}
+
+#photo{
+    margin-right: -1rem;
+    margin-top: 3rem;
+}
+
+.footer{
+    position: fixed-bottom;
+}
+
+.repo-details{
+    text-align: left;
+}
